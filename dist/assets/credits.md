@@ -6,7 +6,6 @@ Fotos ilustrativas do Unsplash, licença https://unsplash.com/license (uso comer
 |---|---|---|---|---|
 | `dist/assets/img/hero.jpg` | Scooter amarela estacionada na areia, de frente para o mar | https://unsplash.com/photos/gRoMwhFuJek | @luemas42 | Licença Unsplash |
 | `dist/assets/img/pilotando.jpg` | Casal de capacete pilotando uma scooter laranja | https://unsplash.com/photos/a14Vy3X1Cyo | @slohmann | Licença Unsplash |
-| `dist/assets/img/laranja.jpg` | Scooter laranja estacionada em rua de paralelepípedos | https://unsplash.com/photos/EDY1KzDP0a4 | @purzlbaum | Licença Unsplash |
 | `dist/assets/img/estrada.jpg` | Scooter elétrica estacionada na beira da estrada | https://unsplash.com/photos/LeavJNm2lFw | @atherenergy | Licença Unsplash |
 | `dist/assets/img/praia-motos.jpg` | Scooters estacionadas perto de uma praia movimentada | https://unsplash.com/photos/NFUWhBrZsco | @andrej_82 | Licença Unsplash |
 | `dist/assets/img/mirante.jpg` | Homem de scooter com vista para a praia e a cidade | https://unsplash.com/photos/DsSGwzWqUMA | @oldsoulframes | Licença Unsplash |
